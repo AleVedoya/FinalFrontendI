@@ -14,7 +14,7 @@
 /* Main container */
 
 .container {
-  background-image: url('../imagenes/bg-simplify-section-mobile.svg');
+  background-image: url('/imagenes/bg-simplify-section-mobile.svg');
   background-size: cover;
   background-repeat: no-repeat;
   background-color: var(--color-neutro-2);
@@ -309,7 +309,7 @@ ol {
 /* Call section style */
 
 .call {
-  background-image: url('../imagenes/bg-simplify-section-desktop.svg');
+  background-image: url('/imagenes/bg-simplify-section-desktop.svg');
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
